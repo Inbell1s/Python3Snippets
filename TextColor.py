@@ -23,8 +23,8 @@ def printYellowB(text):
 printRedB("test\n")
 
 #Can print variables too.
-tekst = "tester\n"
-printGreenB(tekst)
+Var = "tester\n"
+printGreenB(Var)
 
 #Print on one line
 print("Hello, Can i have some ", end="")
