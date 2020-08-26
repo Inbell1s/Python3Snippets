@@ -27,6 +27,6 @@ tekst = "tester\n"
 printGreenB(tekst)
 
 #Print on one line
-print("Hallo, mag ik ", end="")
-printYellowB("kleur")
-print(" astublieft")
+print("Hello, Can i have some ", end="")
+printYellowB("Color")
+print(" please?")
